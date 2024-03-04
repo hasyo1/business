@@ -14,8 +14,8 @@ export default class About extends Component {
                 >
                   <div className="col-md-12">
                     <div className="about-desc">
-                      <span className="heading-meta">About Hasnan</span>
-                      <h2 className="colorlib-heading">Who Am I?</h2>
+                      <span className="heading-meta">About company</span>
+                      <h2 className="colorlib-heading">Who Is company?</h2>
                       <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Nostrum modi quis, ad dolores eos adipisci? Nisi
@@ -44,9 +44,9 @@ export default class About extends Component {
                 className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
                 data-animate-effect="fadeInLeft"
               >
-                <span className="heading-meta">What I do?</span>
+                <span className="heading-meta">What We Do?</span>
                 <h2 className="colorlib-heading">
-                  Here are some of my expertise
+                  Here are some of our expertise
                 </h2>
               </div>
             </div>
